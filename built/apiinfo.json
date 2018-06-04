@@ -1,0 +1,1009 @@
+{
+ "byQName": {
+  "SGBotic": {
+   "kind": 5,
+   "namespace": "",
+   "name": "SGBotic",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 100,
+    "color": "#f47820",
+    "icon": "",
+    "paramHelp": {},
+    "jsDoc": "Makecode block for real time clock\n\nSGBotic blocks",
+    "block": "SGBotic"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "SGBotic"
+  },
+  "SGBotic.RTCREGISTERS": {
+   "kind": 6,
+   "namespace": "SGBotic",
+   "name": "RTCREGISTERS",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RTCREGISTERS"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS"
+  },
+  "SGBotic.RTCREGISTERS.ALM1REG_SECOND": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM1REG_SECOND",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM1REG_SECOND",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM1REG_SECOND"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM1REG_SECOND"
+  },
+  "SGBotic.RTCREGISTERS.ALM1REG_MINUTE": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM1REG_MINUTE",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM1REG_MINUTE",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM1REG_MINUTE"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM1REG_MINUTE"
+  },
+  "SGBotic.RTCREGISTERS.ALM1REG_HOUR": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM1REG_HOUR",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM1REG_HOUR",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM1REG_HOUR"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM1REG_HOUR"
+  },
+  "SGBotic.RTCREGISTERS.ALM1REG_DAY": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM1REG_DAY",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM1REG_DAY",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM1REG_DAY"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM1REG_DAY"
+  },
+  "SGBotic.RTCREGISTERS.ALM2REG_MINUTE": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM2REG_MINUTE",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM2REG_MINUTE",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM2REG_MINUTE"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM2REG_MINUTE"
+  },
+  "SGBotic.RTCREGISTERS.ALM2REG_HOUR": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM2REG_HOUR",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM2REG_HOUR",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM2REG_HOUR"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM2REG_HOUR"
+  },
+  "SGBotic.RTCREGISTERS.ALM2REG_DAY": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "ALM2REG_DAY",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "ALM2REG_DAY",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ALM2REG_DAY"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.ALM2REG_DAY"
+  },
+  "SGBotic.RTCREGISTERS.REG_CTRL": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "REG_CTRL",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "REG_CTRL",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "REG_CTRL"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.REG_CTRL"
+  },
+  "SGBotic.RTCREGISTERS.REG_STATUS": {
+   "kind": 7,
+   "namespace": "SGBotic.RTCREGISTERS",
+   "name": "REG_STATUS",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "REG_STATUS",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "REG_STATUS"
+   },
+   "pkg": null,
+   "retType": "SGBotic.RTCREGISTERS",
+   "parameters": null,
+   "qName": "SGBotic.RTCREGISTERS.REG_STATUS"
+  },
+  "SGBotic.TrueFalse": {
+   "kind": 6,
+   "namespace": "SGBotic",
+   "name": "TrueFalse",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "TrueFalse"
+   },
+   "pkg": null,
+   "retType": "SGBotic.TrueFalse",
+   "parameters": null,
+   "qName": "SGBotic.TrueFalse"
+  },
+  "SGBotic.TrueFalse.True": {
+   "kind": 7,
+   "namespace": "SGBotic.TrueFalse",
+   "name": "True",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "True",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "True"
+   },
+   "pkg": null,
+   "retType": "SGBotic.TrueFalse",
+   "parameters": null,
+   "qName": "SGBotic.TrueFalse.True"
+  },
+  "SGBotic.TrueFalse.False": {
+   "kind": 7,
+   "namespace": "SGBotic.TrueFalse",
+   "name": "False",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "False",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "False"
+   },
+   "pkg": null,
+   "retType": "SGBotic.TrueFalse",
+   "parameters": null,
+   "qName": "SGBotic.TrueFalse.False"
+  },
+  "SGBotic.startStop": {
+   "kind": 6,
+   "namespace": "SGBotic",
+   "name": "startStop",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "startStop"
+   },
+   "pkg": null,
+   "retType": "SGBotic.startStop",
+   "parameters": null,
+   "qName": "SGBotic.startStop"
+  },
+  "SGBotic.startStop.Start": {
+   "kind": 7,
+   "namespace": "SGBotic.startStop",
+   "name": "Start",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "Start",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Start"
+   },
+   "pkg": null,
+   "retType": "SGBotic.startStop",
+   "parameters": null,
+   "qName": "SGBotic.startStop.Start"
+  },
+  "SGBotic.startStop.Stop": {
+   "kind": 7,
+   "namespace": "SGBotic.startStop",
+   "name": "Stop",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "Stop",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Stop"
+   },
+   "pkg": null,
+   "retType": "SGBotic.startStop",
+   "parameters": null,
+   "qName": "SGBotic.startStop.Stop"
+  },
+  "SGBotic.alarmNumber": {
+   "kind": 6,
+   "namespace": "SGBotic",
+   "name": "alarmNumber",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "alarmNumber"
+   },
+   "pkg": null,
+   "retType": "SGBotic.alarmNumber",
+   "parameters": null,
+   "qName": "SGBotic.alarmNumber"
+  },
+  "SGBotic.alarmNumber.Alarm1": {
+   "kind": 7,
+   "namespace": "SGBotic.alarmNumber",
+   "name": "Alarm1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "Alarm1",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Alarm1"
+   },
+   "pkg": null,
+   "retType": "SGBotic.alarmNumber",
+   "parameters": null,
+   "qName": "SGBotic.alarmNumber.Alarm1"
+  },
+  "SGBotic.alarmNumber.Alarm2": {
+   "kind": 7,
+   "namespace": "SGBotic.alarmNumber",
+   "name": "Alarm2",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "Alarm2",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Alarm2"
+   },
+   "pkg": null,
+   "retType": "SGBotic.alarmNumber",
+   "parameters": null,
+   "qName": "SGBotic.alarmNumber.Alarm2"
+  },
+  "SGBotic.rtc_setDateTime": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "rtc_setDateTime",
+   "attributes": {
+    "3": "true",
+    "paramDefl": {
+     "year": "2018",
+     "month": "5",
+     "day": "22",
+     "hour": "10",
+     "minute": "39",
+     "second": "1"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_setDateTime",
+    "block": "set real time clock|year %year|month %month|day %day|hour %hour|minute %minute|second %second",
+    "weight": 100,
+    "blockExternalInputs": "true",
+    "blockGap": "true",
+    "paramMin": {
+     "month": "1",
+     "day": "1",
+     "hour": "1",
+     "minute": "0",
+     "second": "0"
+    },
+    "paramMax": {
+     "month": "12",
+     "day": "31",
+     "hour": "24",
+     "minute": "60",
+     "second": "60"
+    },
+    "paramHelp": {
+     "year": "is the Year to be set, eg: 2018",
+     "month": "is the Month to be set, eg: 5",
+     "day": "is the day to be set, eg: 22",
+     "hour": "is the Hour to be set, eg: 10",
+     "minute": "is the Minute to be set, eg: 39",
+     "second": "is the Second to be set, eg: 1"
+    },
+    "jsDoc": "set current Date and Time",
+    "_name": "rtc_setDateTime"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "year",
+     "description": "is the Year to be set, eg: 2018",
+     "type": "number",
+     "initializer": "2018",
+     "default": "2018",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "month",
+     "description": "is the Month to be set, eg: 5",
+     "type": "number",
+     "initializer": "5",
+     "default": "5",
+     "options": {
+      "min": {
+       "value": "1"
+      },
+      "max": {
+       "value": "12"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "day",
+     "description": "is the day to be set, eg: 22",
+     "type": "number",
+     "initializer": "22",
+     "default": "22",
+     "options": {
+      "min": {
+       "value": "1"
+      },
+      "max": {
+       "value": "31"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "hour",
+     "description": "is the Hour to be set, eg: 10",
+     "type": "number",
+     "initializer": "10",
+     "default": "10",
+     "options": {
+      "min": {
+       "value": "1"
+      },
+      "max": {
+       "value": "24"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "minute",
+     "description": "is the Minute to be set, eg: 39",
+     "type": "number",
+     "initializer": "39",
+     "default": "39",
+     "options": {
+      "min": {
+       "value": "0"
+      },
+      "max": {
+       "value": "60"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "second",
+     "description": "is the Second to be set, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {
+      "min": {
+       "value": "0"
+      },
+      "max": {
+       "value": "60"
+      }
+     },
+     "isEnum": false
+    }
+   ],
+   "snippet": "rtc_setDateTime(2018, 5, 22, 10, 39, 1)",
+   "qName": "SGBotic.rtc_setDateTime"
+  },
+  "SGBotic.rtc_setAlarm1": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "rtc_setAlarm1",
+   "attributes": {
+    "3": "true",
+    "paramDefl": {
+     "alarm1Hour": "1",
+     "alarm1Minute": "2",
+     "alarm1Second": "3"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_setAlarm1",
+    "block": "set Alarm1|hour %aalarm1Hour|minute %alarm1Minute|second %alarm1Second",
+    "weight": 99,
+    "blockExternalInputs": "true",
+    "blockGap": "true",
+    "paramMin": {
+     "alarm1Hour": "1",
+     "alarm1Minute": "0",
+     "alarm1Second": "0"
+    },
+    "paramMax": {
+     "alarm1Hour": "24",
+     "alarm1Minute": "60",
+     "alarm1Second": "60"
+    },
+    "paramHelp": {
+     "alarm1Hour": "is the alarm1 Hour to be set, eg: 1",
+     "alarm1Minute": "is the alarm1 Minute to be set, eg: 2",
+     "alarm1Second": "is the alarm1 Second to be set, eg: 3"
+    },
+    "jsDoc": "set Alarm1",
+    "_name": "rtc_setAlarm1"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "alarm1Hour",
+     "description": "is the alarm1 Hour to be set, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {
+      "min": {
+       "value": "1"
+      },
+      "max": {
+       "value": "24"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "alarm1Minute",
+     "description": "is the alarm1 Minute to be set, eg: 2",
+     "type": "number",
+     "initializer": "2",
+     "default": "2",
+     "options": {
+      "min": {
+       "value": "0"
+      },
+      "max": {
+       "value": "60"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "alarm1Second",
+     "description": "is the alarm1 Second to be set, eg: 3",
+     "type": "number",
+     "initializer": "3",
+     "default": "3",
+     "options": {
+      "min": {
+       "value": "0"
+      },
+      "max": {
+       "value": "60"
+      }
+     },
+     "isEnum": false
+    }
+   ],
+   "snippet": "rtc_setAlarm1(1, 2, 3)",
+   "qName": "SGBotic.rtc_setAlarm1"
+  },
+  "SGBotic.rtc_setAlarm2": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "rtc_setAlarm2",
+   "attributes": {
+    "8": "true",
+    "paramDefl": {
+     "alarm2Hour": "1",
+     "alarm2Minute": "2"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_setAlarm2",
+    "block": "set Alarm2|hour %alarm2Hour|minute %alarm2Minute",
+    "weight": 98,
+    "blockExternalInputs": "true",
+    "blockGap": "true",
+    "paramMin": {
+     "alarm2Hour": "1",
+     "alarm2Minute": "0"
+    },
+    "paramMax": {
+     "alarm2Hour": "24",
+     "alarm2Minute": "60"
+    },
+    "paramHelp": {
+     "alarm2Hour": "is the alarm2 Hour to be set, eg: 1",
+     "alarm2Minute": "is the alarm2 Minute to be set, eg: 2"
+    },
+    "jsDoc": "set Alarm2",
+    "_name": "rtc_setAlarm2"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "alarm2Hour",
+     "description": "is the alarm2 Hour to be set, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {
+      "min": {
+       "value": "1"
+      },
+      "max": {
+       "value": "24"
+      }
+     },
+     "isEnum": false
+    },
+    {
+     "name": "alarm2Minute",
+     "description": "is the alarm2 Minute to be set, eg: 2",
+     "type": "number",
+     "initializer": "2",
+     "default": "2",
+     "options": {
+      "min": {
+       "value": "0"
+      },
+      "max": {
+       "value": "60"
+      }
+     },
+     "isEnum": false
+    }
+   ],
+   "snippet": "rtc_setAlarm2(1, 2)",
+   "qName": "SGBotic.rtc_setAlarm2"
+  },
+  "SGBotic.rtc_alarmStatus": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "rtc_alarmStatus",
+   "attributes": {
+    "8": "true",
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_alarmStatus",
+    "block": "%alarmStatID |status",
+    "weight": 60,
+    "blockGap": "true",
+    "paramHelp": {},
+    "jsDoc": "Get alarm status. Function returns 1 if activated",
+    "_name": "rtc_alarmStatus"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "alarmStatID",
+     "description": "",
+     "type": "SGBotic.alarmNumber",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "rtc_alarmStatus(null)",
+   "qName": "SGBotic.rtc_alarmStatus"
+  },
+  "SGBotic.rtc_getRegister": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "rtc_getRegister",
+   "attributes": {
+    "8": "true",
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getRegister",
+    "block": "get register %registerID",
+    "weight": 50,
+    "blockGap": "true",
+    "paramHelp": {},
+    "jsDoc": "get register value. For debug purpose.",
+    "_name": "rtc_getRegister"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "registerID",
+     "description": "",
+     "type": "SGBotic.RTCREGISTERS",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "rtc_getRegister(null)",
+   "qName": "SGBotic.rtc_getRegister"
+  },
+  "SGBotic.getYear": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getYear",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getYear",
+    "block": "year",
+    "weight": 90,
+    "blockGap": "3",
+    "paramHelp": {},
+    "jsDoc": "get Year",
+    "_name": "getYear"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getYear()",
+   "qName": "SGBotic.getYear"
+  },
+  "SGBotic.getMonth": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getMonth",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getMonth",
+    "block": "month",
+    "weight": 89,
+    "blockGap": "3",
+    "paramHelp": {},
+    "jsDoc": "get Month",
+    "_name": "getMonth"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getMonth()",
+   "qName": "SGBotic.getMonth"
+  },
+  "SGBotic.getDayOfWeek": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getDayOfWeek",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getDayOfWeek",
+    "block": "day of week",
+    "weight": 83,
+    "blockGap": "15",
+    "paramHelp": {},
+    "jsDoc": "get Day of week",
+    "_name": "getDayOfWeek"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getDayOfWeek()",
+   "qName": "SGBotic.getDayOfWeek"
+  },
+  "SGBotic.getDay": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getDay",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getDay",
+    "block": "Day",
+    "weight": 87,
+    "blockGap": "15",
+    "paramHelp": {},
+    "jsDoc": "get day",
+    "_name": "getDay"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getDay()",
+   "qName": "SGBotic.getDay"
+  },
+  "SGBotic.getHour": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getHour",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getHour",
+    "block": "hour",
+    "weight": 86,
+    "blockGap": "3",
+    "paramHelp": {},
+    "jsDoc": "get Hour",
+    "_name": "getHour"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getHour()",
+   "qName": "SGBotic.getHour"
+  },
+  "SGBotic.getMinute": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getMinute",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getMinute",
+    "block": "minute",
+    "weight": 85,
+    "blockGap": "3",
+    "paramHelp": {},
+    "jsDoc": "get Minute",
+    "_name": "getMinute"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getMinute()",
+   "qName": "SGBotic.getMinute"
+  },
+  "SGBotic.getSecond": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getSecond",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getSecond",
+    "block": "second",
+    "weight": 84,
+    "blockGap": "15",
+    "paramHelp": {},
+    "jsDoc": "get Second",
+    "_name": "getSecond"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getSecond()",
+   "qName": "SGBotic.getSecond"
+  },
+  "SGBotic.getTemperature": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getTemperature",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "subcategory": "Real-Time-Clock",
+    "blockId": "rtc_getTemperature",
+    "block": "temperature",
+    "weight": 70,
+    "blockGap": "15",
+    "paramHelp": {},
+    "jsDoc": "get Temperature",
+    "_name": "getTemperature"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "getTemperature()",
+   "qName": "SGBotic.getTemperature"
+  },
+  "SGBotic.getDOW": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "getDOW",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "get day of week",
+    "_name": "getDOW"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "y",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "m",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "d",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "getDOW(0, 0, 0)",
+   "qName": "SGBotic.getDOW"
+  },
+  "SGBotic.bcd2dec": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "bcd2dec",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "bcd2dec -- convert binary-coded decimal (BCD) to decimal",
+    "_name": "bcd2dec"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "bcd",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "bcd2dec(0)",
+   "qName": "SGBotic.bcd2dec"
+  },
+  "SGBotic.dec2bcd": {
+   "kind": 3,
+   "namespace": "SGBotic",
+   "name": "dec2bcd",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "dec2bcd -- convert decimal to binary-coded decimal (BCD)",
+    "_name": "dec2bcd"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "dec",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "dec2bcd(0)",
+   "qName": "SGBotic.dec2bcd"
+  }
+ }
+}

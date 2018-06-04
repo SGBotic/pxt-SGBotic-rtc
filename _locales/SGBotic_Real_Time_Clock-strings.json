@@ -1,0 +1,7 @@
+{
+  "SGBotic.bgColor.Black|block": "Black",
+  "SGBotic.bgColor.White|block": "White",
+  "SGBotic.init_rtc|block": "Connect RTC MOSI to %pinMOSI| MISO to %pinMISO| CLK to %pinCLK SS to %pinSS",
+  "SGBotic|block": "SGBotic",
+  "{id:category}SGBotic": "SGBotic"
+}

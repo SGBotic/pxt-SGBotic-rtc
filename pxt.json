@@ -1,0 +1,15 @@
+{
+    "name": "SGBotic_rtc",
+    "version": "0.1",
+    "description": "Makdecode block real time clock module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "rtc.ts",
+        "base.ts"
+    ],
+    "public": true
+}
